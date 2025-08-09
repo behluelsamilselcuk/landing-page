@@ -31,7 +31,7 @@ body {
 .header-links {
     list-style: none;
     display: flex;
-    gap: 15px;
+    gap: 35px;
 }
 
 .header-links a {
@@ -194,4 +194,19 @@ body {
     border-radius: 7px;
     padding-left: 35px;
     padding-right: 35px;
+}
+
+/* === Footer === */
+.footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1f2937;
+    color: #e5e7eb;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.footer p {
+    font-size: 24px;
 }
