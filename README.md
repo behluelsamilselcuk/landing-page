@@ -6,7 +6,6 @@ Modern one-page layout – completely without JavaScript.
 
 ## ✨ Features
 - Modern one-page design
-- Responsive layout for desktop and mobile
 - Lightweight code – only HTML & CSS basics
 
 ---
