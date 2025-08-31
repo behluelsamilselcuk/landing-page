@@ -35,9 +35,4 @@ Modern one-page layout – completely without JavaScript.
 
 ## 🛠️ Built With
 - HTML5  
-- CSS3  
-
----
-
-## 👨‍💻 Developer
-Created by **Behlül Samil Selcuk**
+- CSS3
